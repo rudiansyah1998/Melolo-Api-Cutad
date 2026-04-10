@@ -4,7 +4,7 @@ Akses ribuan drama dan film pendek dari Melolo lewat REST API. Gratis, tanpa bia
 
 **Website:** [cutad.web.id](https://www.cutad.web.id)
 **Dokumentasi:** [cutad.web.id/docs](https://www.cutad.web.id/docs)
-**Powered by:** [CUTAD API](https://github.com/[username]/cutad-api-docs)
+**Powered by:** [CUTAD API](https://github.com/rudiansyah1998/cutad-api-docs)
 
 ---
 
