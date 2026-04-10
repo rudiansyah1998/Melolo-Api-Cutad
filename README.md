@@ -417,7 +417,7 @@ Contoh response error:
 ## 📖 Dokumentasi Lengkap
 
 - **CUTAD API Docs:** [cutad.web.id/docs](https://www.cutad.web.id/docs)
-- **Semua Provider:** [cutad-api-docs](https://github.com/[username]/cutad-api-docs)
+- **Semua Provider:** [cutad-api-docs](https://github.com/rudiansyah1998/cutad-api-docs)
 - **Website:** [cutad.web.id](https://www.cutad.web.id)
 
 ---
